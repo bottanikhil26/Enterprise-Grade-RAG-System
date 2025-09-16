@@ -1,0 +1,20 @@
+python-dotenv
+"camelot-py[cv]"
+llama-index-output-parsers-langchain
+ipykernel
+langchain-unstructured
+llama-index
+langchain
+langchain-core
+langchain-community
+llama-index-llms-ollama
+chroma
+pymupdf
+deepeval
+llama-index-retrievers-bm25
+llama-index-experimental
+"unstructured[all-docs]"
+tesseract
+poppler
+structlog
+-e .
