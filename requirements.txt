@@ -1,5 +1,6 @@
 python-dotenv
-"camelot-py[cv]"
+structlog
+camelot
 llama-index-output-parsers-langchain
 ipykernel
 langchain-unstructured
@@ -13,8 +14,7 @@ pymupdf
 deepeval
 llama-index-retrievers-bm25
 llama-index-experimental
-"unstructured[all-docs]"
+unstructured[all-docs]
 tesseract
 poppler
-structlog
--e .
+#-e .
